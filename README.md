@@ -1,7 +1,6 @@
-# Wallace Salvador Ferreira da Silva
+# Olá, sou Wallace
 
-## Sobre mim
-Sou estudante de Engenharia da Computação (conclusão em 2026), apaixonado por tecnologia, inovação e aprendizado contínuo. Busco desafios que me permitam crescer como desenvolvedor e contribuir para projetos que impactem positivamente a vida das pessoas.
+Sou estudante de Engenharia da Computação ainda em curso (conclusão no fim de 2026), apaixonado por tecnologia, inovação e aprendizado contínuo. Busco desafios que me permitam crescer como desenvolvedor e contribuir para projetos que impactem positivamente a vida das pessoas.
 
 Tenho facilidade para aprender rápido, trabalhar em equipe e me adaptar a novas ferramentas. Acredito que colaboração, curiosidade e ética são essenciais para o sucesso em tecnologia.
 
@@ -33,11 +32,10 @@ Tenho facilidade para aprender rápido, trabalhar em equipe e me adaptar a novas
 
 ### Projetos em Destaque
 - [Portfólio Pessoal](https://github.com/CodeWllc/portfolio)
-- [Sistema de Controle Acadêmico](https://github.com/CodeWllc/controle-academico)
 
-### 🎯 Objetivos
-- Evoluir como desenvolvedor e como pessoa
+### 🎯 Meus Objetivos
+- Evoluir como pessoa, engenheiro e desenvolvedor
 - Contribuir para projetos reais e inovadores
-- Compartilhar conhecimento e aprender com a comunidade
+- Compartilhar conhecimento e aprender com todos
 
 > "A tecnologia move o mundo." – Steve Jobs
