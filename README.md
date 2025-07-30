@@ -24,8 +24,6 @@ Tenho facilidade para aprender rápido, trabalhar em equipe e me adaptar a novas
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeWllc&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CodeWllc&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 ## Minhas Contribuições
 - [DIO Lab Open Source](https://github.com/digitalinnovationone/dio-lab-open-source) - Contribuição no projeto de aprendizado de Git/GitHub
 - Participação ativa na comunidade de desenvolvedores da DIO
@@ -40,3 +38,5 @@ Tenho facilidade para aprender rápido, trabalhar em equipe e me adaptar a novas
 - Compartilhar conhecimento e aprender com todos
 
 > "A tecnologia move o mundo." – Steve Jobs
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CodeWllc&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
